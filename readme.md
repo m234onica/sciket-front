@@ -19,3 +19,5 @@
     ```
     python3 app.py
     ```
+
+Now you can see the project in `localhost:5000`
