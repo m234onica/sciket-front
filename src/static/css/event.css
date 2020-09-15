@@ -1,0 +1,185 @@
+html,
+body,
+.container-fluid,
+.row {
+  height: 100%;
+}
+.sidebar_position {
+  padding-left: 15%;
+  font-size: 1.1em;
+}
+nav .customized_active {
+  background-color: #f1f1f1;
+  color: black;
+}
+
+.no_scroll {
+  position: fixed;
+}
+a {
+  color: white;
+}
+a:hover {
+  background-color: grey;
+  color: white;
+}
+
+.btn-link {
+  color: #343a40;
+}
+
+.modal {
+  width: 660px;
+  left: 33%;
+}
+
+.modal-body {
+  padding: 0px;
+  margin: 30px;
+}
+
+.modal-content {
+  border-radius: 3px;
+  background-clip: none;
+}
+
+.pic_aki_01 {
+  width: 330px;
+  margin-left: 53px;
+  margin-right: auto;
+  margin-bottom: auto;
+}
+
+.cancel-button {
+  margin-top: -6px;
+  margin-right: -6px;
+}
+
+.close {
+  cursor: pointer;
+}
+
+.modal-table {
+  height: 214px;
+  width: 600px;
+  margin-top: -1px;
+  margin-bottom: 20px;
+  background-color: #ffffff;
+}
+
+.modal-table,
+.modal-table th,
+.modal-table td {
+  border: 2px solid #dce0e0;
+}
+.modal-table th {
+  height: 15px;
+  width: 60px;
+  color: #333333;
+  font-family: "PingFang TC";
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 15px;
+  text-align: right;
+  font-weight: normal;
+  background-color: #f9f9f9;
+  box-shadow: 1px 0 0 0 #dce0e0;
+  padding-right: 15px;
+}
+
+.modal-table td {
+  width: 109px;
+  color: #333333;
+  font-family: "PingFang TC";
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 15px;
+  padding: 0px;
+  padding-left: 14px;
+}
+
+.modal-table .product-border td {
+  font-weight: 600;
+}
+
+.modal-table ul {
+  padding: 0px;
+  margin: 0px;
+  list-style: none;
+  color: #555555;
+  font-family: "PingFang TC";
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.modal .announce {
+  padding: 14px 30px;
+  margin: 0px 0px 20px 0px;
+}
+
+.modal .announce h3 {
+  margin: 16px 0 0 0;
+  height: 20px;
+  width: 240px;
+  color: #333333;
+  font-family: "PingFang TC";
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.modal .announce p {
+  padding-top: 15px;
+  color: #333333;
+  font-size: 14px;
+  letter-spacing: 0.58px;
+  line-height: 22px;
+}
+
+.modal .announce a {
+  color: #333333;
+  text-decoration: underline;
+}
+.announce button {
+  height: 38px;
+  width: 163px;
+  font-family: "PingFang TC";
+  font-size: 17px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 17px;
+  text-align: center;
+  color: #ffffff;
+
+  border-radius: 4.25px;
+  border: none;
+}
+.announce-purple-btn {
+  background-color: #0044bc;
+  box-shadow: 0 3px 0 0 #678fef;
+}
+
+.announce button img {
+  height: 26px;
+  width: 26px;
+}
+
+.announce-img img {
+  width: 100%;
+}
+
+.right {
+  float: right;
+  width: 50%;
+}
+.left {
+  float: left;
+  width: 50%;
+}
+
+.announce-orange-btn {
+  background-color: #eb7909;
+  box-shadow: 0 3px 0 0 #fab24a;
+}
